@@ -96,7 +96,7 @@ for e in alldist_N:
   
 print "###########################################"
 for i,j in zip(indexMatch,indexMatchNed):
-  print i+1, ',', numNED[j],', ', morph[i]
+  print i, ',', numNED[j],', ', morph[i]
 
 
 #print "len ",len(indexMatch)

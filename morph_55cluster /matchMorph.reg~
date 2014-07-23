@@ -1,0 +1,44 @@
+# Region file format: DS9 version 4.1
+# Filename: A2256ABCDPBC3I.FITS 
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle( 256.714583333 ,  78.5163888889 ,15")    #color=red   text={1}
+circle( 256.270833333 ,  78.4733333333 ,15")    #color=red   text={2}
+circle( 254.70875 ,  78.5166666667 ,15")    #color=red   text={3}
+circle( 257.409583333 ,  78.5522222222 ,15")    #color=red   text={4}
+circle( 257.18125 ,  78.5677777778 ,15")    #color=red   text={5}
+circle( 256.857916667 ,  78.6119444444 ,15")    #color=red   text={6}
+circle( 256.546666667 ,  78.5486111111 ,15")    #color=red   text={7}
+circle( 255.983333333 ,  78.6272222222 ,15")    #color=red   text={8}
+circle( 255.65125 ,  78.56 ,15")    #color=red   text={9}
+circle( 255.364166667 ,  78.6025 ,15")    #color=red   text={10}
+circle( 255.077916667 ,  78.5658333333 ,15")    #color=red   text={11}
+circle( 256.774583333 ,  78.6433333333 ,15")    #color=red   text={12}
+circle( 256.727083333 ,  78.6866666667 ,15")    #color=red   text={13}
+circle( 256.19375 ,  78.6427777778 ,15")    #color=red   text={14}
+circle( 256.1 ,  78.6402777778 ,15")    #color=red   text={15}
+circle( 255.897916667 ,  78.6291666667 ,15")    #color=red   text={16}
+circle( 255.887083333 ,  78.6302777778 ,15")    #color=red   text={17}
+circle( 255.785416667 ,  78.6905555556 ,15")    #color=red   text={18}
+circle( 255.284166667 ,  78.7272222222 ,15")    #color=red   text={19}
+circle( 255.117083333 ,  78.6352777778 ,15")    #color=red   text={20}
+circle( 257.249166667 ,  78.7727777778 ,15")    #color=red   text={21}
+circle( 256.19375 ,  78.8058333333 ,15")    #color=red   text={22}
+circle( 255.88875 ,  78.7952777778 ,15")    #color=red   text={23}
+circle( 255.83625 ,  78.7827777778 ,15")    #color=red   text={24}
+circle( 255.64625 ,  78.7672222222 ,15")    #color=red   text={25}
+circle( 255.569166667 ,  78.7688888889 ,15")    #color=red   text={26}
+circle( 255.53875 ,  78.7591666667 ,15")    #color=red   text={27}
+circle( 255.517083333 ,  78.7638888889 ,15")    #color=red   text={28}
+circle( 255.20625 ,  78.8311111111 ,15")    #color=red   text={29}
+circle( 255.239583333 ,  78.7505555556 ,15")    #color=red   text={30}
+circle( 255.089583333 ,  78.7905555556 ,15")    #color=red   text={31}
+circle( 255.079166667 ,  78.8111111111 ,15")    #color=red   text={32}
+circle( 254.189583333 ,  78.7830555556 ,15")    #color=red   text={33}
+circle( 257.2825 ,  78.8758333333 ,15")    #color=red   text={34}
+circle( 256.802083333 ,  78.8883333333 ,15")    #color=red   text={35}
+circle( 256.382083333 ,  78.8552777778 ,15")    #color=red   text={36}
+circle( 255.889166667 ,  78.8494444444 ,15")    #color=red   text={37}
+circle( 255.690833333 ,  78.8636111111 ,15")    #color=red   text={38}
+circle( 255.128333333 ,  78.9375 ,15")    #color=red   text={39}
+circle( 255.045 ,  79.0044444444 ,15")    #color=red   text={40}
