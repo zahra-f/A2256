@@ -18,11 +18,11 @@ B17 ,  S0 ,  ext / triple radio sources / 9" ,  0.0
 B18 ,  S0 ,  comp / circle / 6" ,  0.0
 B19 ,  ? comp / circle-E2 / 11" ,  ? ext / so noisy / 5.5" ,  0.0
 B20 ,  ext / lenticular-E2 or S0 / 9" ,  ext / two radio sources / 8" ,  0.0
-B21 ,  ext / lenticular-disk-S0 / 22" ,  ext / lenticular / 17" ,  0.0
+B21 ,  ext / lenticular-disk-S0 / 22" ,  ext / lenticular / 17" ,  SFG
 B22 ,  ? ext / lenticular-disk-S0 / 16" ,  ? ext / faint-circle / 3" ,  0.0
 B23 ,  S0/E ,  comp / circle / 6.5" ,  0.0
-B24 ,  S ,  ? ext / elliptical- affected by neighber source / 17" ,  0.0
-B25 ,  S0 ,  ? ext / two radio source / 10" ,  0.0
+B24 ,  S ,   ext / elliptical- affected by neighber source / 17" ,  0.0
+B25 ,  S0 ,  ? ext / two radio source / 10" ,  SFG
 B26 ,  E/S0 ,  comp / circle-noisy /  7" ,  0.0
 B27 ,  comp / small lenticular-E6 / 11.5" ,  comp / circle / 9" ,  0.0
 B28 ,  comp / circle-E2 / 6" ,  comp / circle / 7" ,  0.0
@@ -31,55 +31,55 @@ B30 ,  S ,  comp / circle / 7.6" ,  0.0
 B31 ,  ext / elliptical-E6 / 6" ,  ext / two radio sources ,  0.0
 B32 ,  E ,  ext / two radio sources / 9.5" ,  0.0
 B33 ,  S0 ,  ext / tow radio sources / 8.5" ,  0.0
-B34 ,  ext / disk-lenticular-S0 / 14" ,  ext / circle center / 10" ,  0.0
-B35 ,  ext / lenticular-E6 / 8" ,  ext / two radio sources / 10" ,  0.0
-B36 ,  S/I ,  ? ext / Iregular / 12" ,  0.0
-B37 ,  S ,  ext / Iregular / 18" ,  0.0
+B34 ,  ext / disk-lenticular-S0 / 14" ,  ext / circle center / 10" ,  SFG
+B35 ,  ext / lenticular-E6 / 8" ,  ext / two radio sources / 10" ,  SFG
+B36 ,  S/I ,  ext / Iregular / 12" ,  SFG
+B37 ,  S ,  ext / Iregular / 18" ,  SFG
 B38 ,  ext / lenticular-E6 /7" ,  ext / circle center / 11" ,  0.0
 B39 ,  S0 ,  comp / circle / 8" ,  0.0
-B40 ,  ext / disk- lenticular-E2 / 12.7" ,  ext / egg shape / 9.5" ,  0.0
-B41 ,  ext / lenticular-S0 / 16" ,  comp / egg shape / 9.5" ,  0.0
-B42 ,  ext / lenticular -S0 /13" ,  ext/ circle center / 11" ,  0.0
-B43 ,  S ,  ? ext / circle center / 15.6" ,  0.0
+B40 ,  ext / disk- lenticular-E2 / 12.7" ,  ext / egg shape / 9.5" ,  SFG
+B41 ,  ext / lenticular-S0 / 16" ,  comp / egg shape / 9.5" ,  SFG
+B42 ,  ext / lenticular -S0 /13" ,  ext/ circle center / 11" ,  SFG
+B43 ,  S ,  ext / circle center / 15.6" ,  SFG
 B44 ,  ? ext/ circle center-E2/ 7.3" ,  ? nise ,  0.0
 B45 ,  S ,  ext / Iregular- noisy / 6" ,  0.0
-B46 ,  ext / lenticular-Sa-S0 /13" ,  ext / circle center / 9.2" ,  0.0
-B47 ,  ext / egg shape- lenticular-S0 / 7" ,  comp / circle / 7.6" ,  0.0
-B48 ,  ext / elliptical-E6 / 10" ,  ext / circle center / 8.5" ,  0.0
-B49 ,  ext / lenticular-S0 / 10" ,  comp / circle-noisy / 13.5" ,  0.0
+B46 ,  ? ext / lenticular-Sa-S0 /13" ,  ext / circle center / 9.2" ,  ? SFG
+B47 ,  ext / egg shape- lenticular-S0 / 7" ,  comp / circle / 7.6" ,  SFG
+B48 ,  ext / elliptical-E6 / 10" ,  ext / circle center / 8.5" ,  SFG
+B49 ,  ? ext / lenticular-S0 / 10" ,  comp / circle-noisy / 13.5" ,  ? SFG
 B50 ,  ext / lenticular-S0 / 15" ,  ext / Iregular / 10.5" ,  0.0
 B51 ,  ext / lenticular-S0 / 15" ,  ext / two radio sources / 12.5" ,  0.0
 B52 ,  ext / lenticular-E6 / 15" ,  comp / circle-noisy /8.6" ,  0.0
 B53 ,  ext / lenticular-E6 / 15" ,  ext / noisy / 6.2" ,  0.0
-B54 ,  ext / lenticular-S0 / 17" ,  ext / lenticular / 11.5" ,  0.0
+B54 ,  ext / lenticular-S0 / 17" ,  ext / lenticular / 11.5" ,  SFG
 B55 ,  S0 ,  comp / circle / 5.8" ,  0.0
-B56 ,  S0 ,  ext / Iregular- circle center / 17.3" ,  0.0
-B57 ,  S ,  ext / two radio sources / 11/3" ,  0.0
+B56 ,  S0 ,  ext / Iregular- circle center / 17.3" ,  SFG
+B57 ,  S ,  ext / two radio sources / 11/3" ,  SFG
 B58 ,  ext / lenticular-E6 / 11" ,  ext / Iregular / 14.4" ,  0.0
-B59 ,  ext / lenticular-S0 / 12.5" ,  ext / lenticular / 14.3" ,  0.0
-B60 ,  ext / lenticular-S0 / 12.5" ,  ext / Iregular / 7" ,  0.0
-B61 ,  S0 ,  ext / Iregular / 8.3" ,  0.0
+B59 ,  ext / lenticular-S0 / 12.5" ,  ext / lenticular / 14.3" ,  SFG
+B60 ,  ext / lenticular-S0 / 12.5" ,  ext / Iregular / 7" ,  SFG
+B61 ,  S0 ,  ext / Iregular / 8.3" ,  SFG
 B62 ,  comp / circle / 3.2" ,  comp / circle / 6.4" ,  0.0
 B63 ,  ext / circle center-E2 / 14.3" ,  comp / circle / 3.7" ,  0.0
 B64 ,  comp/ circle-E2 /10.7" ,  comp/ circle / 5" ,  0.0
 B65 ,  S ,  ext / Iregular / 22" ,  SFG
 B66 ,  S0 ,  ext / circle center / 8.8" ,  0.0
-B67 ,  ext / lenticular-S0/ 10" ,  ext / egg shape/ 10.4" ,  0.0
-B68 ,  S03/S ,  ? ext / bar shap- Iregular / 31" ,  0.0
-B69 ,  ext / lenticular-S0 /11" ,  ext / circle center / 7" ,  0.0
+B67 ,  ext / lenticular-S0/ 10" ,  ext / egg shape/ 10.4" ,  SFG
+B68 ,  S03/S ,   ext / bar shap- Iregular / 31" ,  SFG
+B69 ,  ext / lenticular-S0 /11" ,  ext / circle center / 7" ,  SFG
 B70 ,  E ,  comp /circle / 8.2" ,  0.0
-B71 ,  ext / lenticular-S0 / 11" ,  comp / circle /5" ,  0.0
+B71 ,  ext / lenticular-S0 / 11" ,  comp / circle /5" ,  SFG
 B72 ,  S ,  ext / circle center-halo around / 17" ,  SFG
 B73 ,  comp / circle / 3.5" ,  comp / circle / 6" ,  0.0
 B74 ,  ? ext / lenticular-two sources-S0 /11" ,  ext / circle center / 8.8" ,  0.0
 B75 ,  comp / circle-E2 / 6" ,  comp / circle / 5" ,  0.0
-B76 ,  S ,  ext / circle center / 7" ,  0.0
-B77 ,  S0 ,  ext / circle center / 7" ,  0.0
-B78 ,  ext / lenticular-S0 / 19.3" ,  ext / Iregular / 6.3" ,  0.0
+B76 ,  S ,  ext / circle center / 7" ,  SFG
+B77 ,  S0 ,  ext / circle center / 7" ,  SFG
+B78 ,  ext / lenticular-S0 / 19.3" ,  ext / Iregular / 6.3" ,  SFG
 B79 ,  ext / elliptical-E6 / 11" ,  ext / Iregular / 10.5" ,  0.0
-B80 ,  comp / elliptical-E6 / 15" ,  comp / noisy /7" ,  0.0
+B80 ,  comp / elliptical-E6 / 15" ,  comp / noisy /7" ,  SFG
 B81 ,  comp / circle-E2 / 5" ,  comp / noisy / 7.6" ,  0.0
-B82 ,  ext / look like arms-SBa / 16" ,  comp / noisy / 6.4" ,  0.0
+B82 ,  ext / look like arms-SBa / 16" ,  comp / noisy / 6.4" ,  SFG
 B83 ,  S ,  comp / circle / 7" ,  SFG
 B84 ,  0.0 ,  0.0 ,  0.0
 B85 ,  0.0 ,  0.0 ,  0.0
